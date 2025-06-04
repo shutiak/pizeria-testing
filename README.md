@@ -1,6 +1,6 @@
 # 🍕 Pizza Website Testing Portfolio
 
-This repository contains my QA testing portfolio project for a fictional or real pizza ordering website.
+This repository contains my QA testing portfolio project for real pizza ordering website - https://simply33food.com/en
 
 🔍 **Test Types**: Functional, UI/UX, Smoke, Regression, Negative  
 🛠️ **Tools**: Postman, TestRail (structure), Jira (bug reports format), Chrome DevTools  
