@@ -11,8 +11,8 @@ The tests are focused specifically on the **reservation form** component of the 
 - **Operating System**: Windows 11 (Full HD resolution – 1920x1080)  
 - **Browser**: Google Chrome  
 - **Browser Version**: 137.0.7151.57 (Official Build, 64-bit)  
-- **Device Type**: Desktop / Laptop  
-- **Connection**: Stable broadband  
+- **Device Type**: Laptop  
+- **Connection**: Wi-Fi 6 (802.11ax)
 - **Test Date**: June 2025  
 
 ## Covered Scenarios
