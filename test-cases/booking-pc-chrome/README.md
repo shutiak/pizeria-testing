@@ -4,7 +4,7 @@ This folder contains manual test cases for the reservation form on the Simply33F
 
 ## Scope
 
-The tests are focused specifically on the **reservation form** component of the site, as accessed via desktop (PC). The purpose is to verify form functionality, validation rules, input boundaries, localization, and expected behavior under both positive and negative scenarios.
+The tests are focused specifically on the reservation form component of the site, as accessed via laptop (PC). The purpose is to verify form functionality, validation rules, input boundaries, localization, and expected behavior under both positive and negative scenarios.
 
 ## Test Environment
 
