@@ -1,18 +1,17 @@
----
-### ✅ Test Case ID: TC001  
+### Test Case ID: TC001  
 **Target Description**: Submit a reservation form with valid information  
 **Suite**: Booking  
 **Type**: Functional  
 **Priority**: High  
 ---
 
-#### 🔒 Pre-conditions:
+#### Pre-conditions:
 1. User is on the homepage: https://simply33food.com/  
 2. Reservation form is visible and active  
 
 ---
 
-#### 📋 Steps to Execute:
+#### Steps to Execute:
 
 | Step | Action | Expected Result | Pass | Fail | Bug Report ID |
 |------|--------|------------------|------|------|----------------|
