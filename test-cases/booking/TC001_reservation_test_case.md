@@ -12,7 +12,7 @@
 
 ---
 
-#### 📋 Steps to Execute:
+#### Steps to Execute:
 
 | Step | Action | Expected Result | Pass | Fail | Bug Report ID |
 |------|--------|------------------|------|------|----------------|
