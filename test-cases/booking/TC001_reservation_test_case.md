@@ -7,29 +7,18 @@
 
 #### Pre-conditions:
 1. User is on the homepage: https://simply33food.com/  
-2. Reservation form is visible and active  
+2. "Reserve Now" button is visible  
+3. Reservation form is part of the homepage content  
 
 ---
 
-#### Steps to Execute:
+#### 📋 Steps to Execute:
 
 | Step | Action | Expected Result | Pass | Fail | Bug Report ID |
 |------|--------|------------------|------|------|----------------|
-| 1 | Input the following valid data into the reservation form:<br>• Name: "Petro"<br>• Email: "petroshutiak@gmail.com"<br>• Branch: "Pizza Grill House"<br>• Phone: "+420770601299"<br>• Date: any future date<br>• Time: available time<br>• Guests: 4<br>• Note: "birthday party" | All fields accept the input without displaying validation errors | | | |
-| 2 | Click the "Reserve" button | A success message is displayed confirming that the reservation was submitted | | | |
-
----
-
-#### Test Data:
-
-- **Name**: Petro  
-- **Email**: petroshutiak@gmail.com  
-- **Branch**: Pizza Grill House  
-- **Phone**: +420770601299  
-- **Date**: (select a future date)  
-- **Time**: (select a valid available time)  
-- **Guests**: 4  
-- **Note**: birthday party  
+| 1 | On the homepage, click the "Reserve Now" button | The page scrolls smoothly to the reservation section located on the same page |      |      |                |
+| 2 | Input the following valid data into the reservation form:<br>• Name: "Petro"<br>• Email: "petroshutiak@gmail.com"<br>• Branch: "Pizza Grill House"<br>• Phone: "+420770601299"<br>• Date: any future date<br>• Time: available time<br>• Guests: 4<br>• Note: "birthday party" | All fields accept the input without displaying validation errors |      |      |                |
+| 3 | Click the "Reserve" button | A success message is displayed confirming that the reservation was submitted |      |      |                |
 
 ---
 
