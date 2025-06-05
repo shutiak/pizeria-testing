@@ -11,4 +11,4 @@ This repository contains my QA testing portfolio project for real pizza ordering
 - Checklists
 - Test summary
 
-💡 Created as part of my learning journey in QA testing.
+Created as part of my learning journey in QA testing.
