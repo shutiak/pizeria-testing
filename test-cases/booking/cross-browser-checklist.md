@@ -12,10 +12,10 @@ This checklist covers reservation form behavior across key device/browser combin
 
 | # | Device      | Browser | Scenario                                                                 | Status | Bug Report ID | Notes                           |
 |---|-------------|---------|--------------------------------------------------------------------------|--------|----------------|----------------------------------|
-| 1 | Laptop      | Chrome  | Fill valid data → Submit form → Check confirmation and email             |    |                | Baseline test                    |
-| 2 | Laptop      | Edge    | Fill valid data → Submit form → Check confirmation and email             |   |         | "Reserve" button does nothing    |
-| 3 | iPad 10.2   | Chrome  | Landscape view → Fill valid data → Submit form                           |    |                | All fields visible and usable    |
-| 4 | iPhone 14   | Edge    | Mobile view → Fill form → Submit → Check layout and response             |   |         | Form clipped at bottom on submit |
+| 1 | Laptop      | Chrome  | Fill valid data → Submit form → Check confirmation and email             |    |                |                    |
+| 2 | Laptop      | Edge    | Fill valid data → Submit form → Check confirmation and email             |   |         |     |
+| 3 | iPad 10.2   | Chrome  | Landscape view → Fill valid data → Submit form                           |    |                |     |
+| 4 | iPhone 14   | Edge    | Mobile view → Fill form → Submit → Check layout and response             |   |         |  |
 
 ---
 
