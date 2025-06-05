@@ -3,7 +3,7 @@
 This repository contains my QA testing portfolio project for real pizza ordering website - https://simply33food.com/en
 
 **Test Types**: Functional, UI/UX, Smoke, Regression, Negative  
-🛠**Tools**: Postman, TestRail (structure), Jira (bug reports format), Chrome DevTools  
+**Tools**: Postman, TestRail (structure), Jira (bug reports format), Chrome DevTools  
 **Deliverables**:
 - Test plan
 - Test cases
