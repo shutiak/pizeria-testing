@@ -1,5 +1,5 @@
 ### Test Case ID: TC010  
-**Target Description**: Attempt to submit reservation form with 500 guests  
+**Target Description**: Attempt to submit reservation form with 60 guests  
 **Suite**: Booking  
 **Type**: Boundary / Functional  
 **Priority**: Medium  
