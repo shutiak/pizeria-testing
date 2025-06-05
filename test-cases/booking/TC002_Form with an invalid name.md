@@ -21,17 +21,5 @@
 
 ---
 
-#### Test Data:
-
-- Name: @@@123  
-- Email: petroshutiak@gmail.com  
-- Branch: Pizza Grill House  
-- Phone: +420770601299  
-- Date: (select a future date)  
-- Time: (select a valid available time)  
-- Guests: 4  
-
----
-
 **Executor**: Petro Shutiak  
 **Date**: 4.6.2025  
