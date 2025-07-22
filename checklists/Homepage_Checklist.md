@@ -1,4 +1,4 @@
-# Homepage Checklist — Simply33
+# Homepage Checklist - Simply33
 
 | #  | Check Item                                          | Status |
 |----|-----------------------------------------------------|--------|
