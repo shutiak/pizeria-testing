@@ -9,6 +9,6 @@
 | 5  | Language switcher is visible and functional         | ✅     |      |
 | 6  | Hero image loads and scales on mobile               | ✅     |      |
 | 7  | Footer with contact info is present                 | ✅     |      |
-| 8  | Social media icons link to correct pages            | ❌     |      |
+| 8  | Social media icons link to correct pages            | ❌     | bug2     |
 | 9  | Responsive design on tablet/mobile                  | ✅     |      |
 | 10 | Website loads under 3 seconds (Google Lighthouse)   | ❌     |      |
