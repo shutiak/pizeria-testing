@@ -11,4 +11,4 @@
 | 7  | Footer with contact info is present                 | ✅     |      |
 | 8  | Social media icons link to correct pages            | ❌     | bug2     |
 | 9  | Responsive design on tablet/mobile                  | ✅     |      |
-| 10 | Website loads under 3 seconds (Google Lighthouse)   | ❌     |      |
+| 10 | Website loads under 3 seconds (Google Lighthouse)   | ❌     | bug3     |
