@@ -1,4 +1,4 @@
-# Menu Page Checklist — Simply33
+# Menu Page Checklist - Simply33
 
 | #  | Check Item                                                   | Status | Bug id |
 |----|--------------------------------------------------------------|--------|--------|
