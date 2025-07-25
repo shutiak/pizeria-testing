@@ -1,10 +1,10 @@
-# ✅ Order Process Checklist — Simply 33
+# Order Process Checklist — Simply 33
 
 | # | Test Item                                                                 | Pass/Fail | Bug ID |
 |---|---------------------------------------------------------------------------|-----------|--------|
-| 1 | Cart is visible and accessible on all pages                              |     ✅      |        |
-| 2 | User can successfully add pizza to the cart                              |           |        |
-| 3 | Quantity update in the cart correctly updates the total price            |           |        |
+| 1 | Cart is visible and accessible on all pages                              |✅      |        |
+| 2 | User can successfully add pizza to the cart                              |✅     |        |
+| 3 | Quantity update in the cart correctly updates the total price            |✅     |        |
 | 4 | Deleting items from the cart works correctly                             |           |        |
 | 5 | Cart preserves its state when navigating between pages                   |           |        |
 | 6 | Total amount is displayed correctly                                      |           |        |
