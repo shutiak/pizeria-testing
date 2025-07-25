@@ -9,7 +9,7 @@
 | 5 | Hamburger menu appears on smaller screens                                |✅           |        |
 | 6 | Navigation menu opens and closes correctly                               |✅           |        |
 | 7 | Language switcher works on all devices                                   |✅           |        |
-| 8 | Menu items adapt properly to screen size                                 |❌           |        |
+| 8 | Menu items adapt properly to screen size                                 |✅           |        |
 | 9 | Text does not overflow or get cut off                                    |✅           |        |
 |10 | Pizza images scale properly without distortion                           |✅           |        |
 |11 | “Add to cart” button is always visible and clickable                     |✅           |        |
