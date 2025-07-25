@@ -5,12 +5,12 @@
 | 1 | Cart is visible and accessible on all pages                              |✅      |        |
 | 2 | User can successfully add pizza to the cart                              |✅     |        |
 | 3 | Quantity update in the cart correctly updates the total price            |✅     |        |
-| 4 | Deleting items from the cart works correctly                             |           |        |
-| 5 | Cart preserves its state when navigating between pages                   |           |        |
-| 6 | Total amount is displayed correctly                                      |           |        |
-| 7 | Selecting a “1+1” deal automatically adds the second pizza               |           |        |
-| 8 | The offer does not apply multiple times with only one pizza selected     |           |        |
-| 9 | The second item in a 1+1 deal is displayed as 0 CZK in the cart          |           |        |
+| 4 | Deleting items from the cart works correctly                             |✅           |        |
+| 5 | Cart preserves its state when navigating between pages                   |✅           |        |
+| 6 | Total amount is displayed correctly                                      |✅           |        |
+| 7 | Selecting a “1+1” deal automatically adds the second pizza               |❌           |        |
+| 8 | The offer does not apply multiple times with only one pizza selected     |✅           |        |
+| 9 | The second item in a 1+1 deal is displayed as 0 CZK in the cart          |✅           |        |
 |10 | “Name” field is required                                                 |           |        |
 |11 | “Phone” field accepts only valid numeric input                           |           |        |
 |12 | “Email” field has proper validation                                      |           |        |
