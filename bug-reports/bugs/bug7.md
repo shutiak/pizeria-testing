@@ -25,7 +25,7 @@
 **Severity:** Minor  
 **Priority:** Low
 
-**Attachments:** 
+**Attachments:** <br>
 <img width="250" height="278" alt="image" src="https://github.com/user-attachments/assets/fecba68f-18d0-4e29-bf28-09c3570ca59f" />
 
 
