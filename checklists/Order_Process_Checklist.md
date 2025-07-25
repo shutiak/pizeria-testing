@@ -1,4 +1,4 @@
-# Order Process Checklist — Simply 33
+# Order Process Checklist - Simply 33
 
 | # | Test Item                                                                 | Pass/Fail | Bug ID |
 |---|---------------------------------------------------------------------------|-----------|--------|
