@@ -17,7 +17,7 @@
 | Step | Action | Expected Result | Result | Bug Report ID |
 |------|--------|------------------|--------|----------------|
 | 1 | Open the homepage in desktop view | Both buttons are clearly visible and placed above the hero image | ✅ |                |
-| 2 | Resize to iPad Air resolution (820x1180) or simulate in DevTools | Buttons remain visible and do not shift below the banner | ❌ | BUG-007         |
+| 2 | Resize to iPad Air resolution (820x1180) or simulate in DevTools | Buttons remain visible and do not shift below the banner | ❌ | <a href="https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug7.md#bug-007-reserve-now-and-order-online-buttons-shift-below-hero-banner-on-ipad-air-820x1180">BUG-007</a>         |
 | 3 | Resize to mobile resolution (375x812) or use a physical mobile device | Buttons are either visible or accessible through scrolling/tap | ✅ |                |
 | 4 | Click the "Reserve Now" button | Page scrolls to the reservation section | ✅ |                |
 | 5 | Click the "Order Online" button | External ordering iframe opens or scrolls to the order section | ✅ |                |
