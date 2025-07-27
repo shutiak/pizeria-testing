@@ -15,9 +15,9 @@
 
 | Step | Action | Expected Result | Pass | Fail | Bug Report ID |
 |------|--------|------------------|------|------|----------------|
-| 1 | Click the "Reserve Now" button | The page scrolls smoothly to the reservation section located on the same page |      |      |                |
-| 2 | Input the following data into the reservation form:<br>• Name: "Petro"<br>• Email: "petroshutiak@"<br>• Branch: "Pizza Grill House"<br>• Phone: "+420770601299"<br>• Date: any future date<br>• Time: available time<br>• Guests: 4<br>• Note: optional | The "Email" field is marked as invalid (e.g., highlighted in red or a validation message appears) |      |      |                |
-| 3 | Click the "Reserve" button | The form is not submitted. User is prompted to correct the invalid "Email" field |      |      |                |
+| 1 | Click the "Reserve Now" button | The page scrolls smoothly to the reservation section located on the same page |✅      |      |                |
+| 2 | Input the following data into the reservation form:<br>• Name: "Petro"<br>• Email: "petroshutiak@"<br>• Branch: "Pizza Grill House"<br>• Phone: "+420770601299"<br>• Date: any future date<br>• Time: available time<br>• Guests: 4<br>• Note: optional | The "Email" field is marked as invalid (e.g., highlighted in red or a validation message appears) |      |✅      |                |
+| 3 | Click the "Reserve" button | The form is not submitted. User is prompted to correct the invalid "Email" field |      |✅      |                |
 
 ---
 
