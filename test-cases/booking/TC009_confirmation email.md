@@ -16,8 +16,8 @@
 
 | Step | Action | Expected Result | Pass | Fail | Bug Report ID |
 |------|--------|------------------|------|------|----------------|
-| 1 | Click the "Reserve" button | A success message is displayed confirming that the reservation was submitted |      |      |                |
-| 2 | Open the inbox of the provided email address | A confirmation email is received within 5 minutes containing the reservation details |      |      |                |
+| 1 | Click the "Reserve" button | A success message is displayed confirming that the reservation was submitted |      |✅      |                |
+| 2 | Open the inbox of the provided email address | A confirmation email is received within 5 minutes containing the reservation details |      |✅      |                |
 
 ---
 
