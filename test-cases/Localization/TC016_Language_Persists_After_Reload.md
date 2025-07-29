@@ -16,10 +16,10 @@
 
 | Step | Action | Expected Result | Result | Bug Report ID |
 |------|--------|------------------|--------|----------------|
-| 1 | On the homepage, click the language switcher and select "CZ" | Page reloads or redirects to `/cz/` version | ⬜ |                |
-| 2 | Press Ctrl+R or click the browser reload button | The page reloads but stays in the Czech version (`/cz/`) | ⬜ |                |
-| 3 | Close the browser tab, open a new tab, and manually enter https://simply33food.com | Website opens in Czech version if language is stored | ⬜ |                |
-| 4 | Repeat the same steps using English version (`/en/`) | Site stays in English after reload or revisit | ⬜ |                |
+| 1 | On the homepage, click the language switcher and select "CZ" | Page reloads or redirects to `/cz/` version | ✅ |                |
+| 2 | Press Ctrl+R or click the browser reload button | The page reloads but stays in the Czech version (`/cz/`) | ✅ |                |
+| 3 | Close the browser tab, open a new tab, and manually enter https://simply33food.com | Website opens in Czech version if language is stored | ✅ |                |
+| 4 | Repeat the same steps using English version (`/en/`) | Site stays in English after reload or revisit | ❌ |<a href='https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug13.md#bug-013-site-defaults-to-czech-language-on-revisit-even-after-selecting-english'>BUG-013</a>                |
 
 ---
 
