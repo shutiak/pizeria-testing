@@ -17,7 +17,7 @@
 | Step | Action | Expected Result | Result | Bug Report ID |
 |------|--------|------------------|--------|----------------|
 | 1 | Open the homepage in desktop view (1920x1080) | Hero banner image is visible, clear, and scaled to fit the screen | ✅ |                |
-| 2 | Resize the browser window to tablet view (820x1180) or simulate iPad Air | Image remains visible and adjusts without overlapping or breaking layout | ❌ |                |
+| 2 | Resize the browser window to tablet view (820x1180) or simulate iPad Air | Image remains visible and adjusts without overlapping or breaking layout | ❌ |<a href="https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug7.md#bug-007-reserve-now-and-order-online-buttons-shift-below-hero-banner-on-ipad-air-820x1180">BUG-007</a>                |
 | 3 | Resize or simulate mobile view (375x812) | Banner image adjusts responsively; buttons (if present) stay visible and usable | ✅ |                |
 | 4 | Observe if any layout shift occurs when switching between resolutions | No image stretching, cutting, or unexpected layout shift should occur | ✅ |                |
 
