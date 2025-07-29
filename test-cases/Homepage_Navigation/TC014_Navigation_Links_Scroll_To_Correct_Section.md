@@ -22,7 +22,7 @@
 | 4 | Hover over the "Menu" navigation item | A dropdown appears with: "Special Offers", "Alcohol Sets" | ✅ |                |
 | 5 | Hover over the "About Us" navigation item | A dropdown appears with: "Gallery" | ✅ |                |
 | 6 | Click on "Special Offers" from the dropdown | User is redirected to: `https://simply33food.com/en/special-offers/` | ✅ |                |
-| 7 | Click on "Alcohol Sets" from the dropdown | User is redirected to: `https://simply33food.com/en/menu/#alcohol-sets` | ❌ |                |
+| 7 | Click on "Alcohol Sets" from the dropdown | User is redirected to: `https://simply33food.com/en/menu/#alcohol-sets` | ❌ |<a href="https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug1.md#bug-001-alcohol-sets-navigation-link-redirects-to-czech-version-instead-of-english">BUG-001</a>                |
 | 8 | Click on "Gallery" from the dropdown | User is redirected to: `https://simply33food.com/en/gallery/` | ✅ |                |
 
 ---
