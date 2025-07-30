@@ -13,11 +13,11 @@
 
 #### Steps to Execute:
 
-| Step | Action | Expected Result | Pass | Fail | Bug Report ID |
-|------|--------|------------------|------|------|----------------|
-| 1 | Click the "Reserve Now" button | The page scrolls smoothly to the reservation section located on the same page |✅      |      |                |
-| 2 | Input the following data into the reservation form:<br>• Name: "@@@123"<br>• Email: "petroshutiak@gmail.com"<br>• Branch: "Pizza Grill House"<br>• Phone: "+420770601299"<br>• Date: any future date<br>• Time: available time<br>• Guests: 4<br>• Note: optional | The "Name" field is marked as invalid (e.g., highlighted in red or a validation message appears) |      |✅      |                |
-| 3 | Click the "Reserve" button | The form is not submitted. User is prompted to correct the invalid "Name" field |      |✅      |                |
+| Step | Action | Expected Result | Result | Bug Report ID |
+|------|--------|------------------|--------|----------------|
+| 1 | Click the "Reserve Now" button | The page scrolls smoothly to the reservation section located on the same page | ✅ | |
+| 2 | Input the following data into the reservation form:<br>• Name: "@@@123"<br>• Email: "petroshutiak@gmail.com"<br>• Branch: "Pizza Grill House"<br>• Phone: "+420770601299"<br>• Date: any future date<br>• Time: available time<br>• Guests: 4<br>• Note: optional | The "Name" field is marked as invalid (e.g., highlighted in red or a validation message appears) | ❌ Blocked – see BUG-014 | BUG-014 |
+| 3 | Click the "Reserve" button | The form is not submitted. User is prompted to correct the invalid "Name" field | ❌ Blocked – see BUG-014 | BUG-014 |
 
 ---
 
