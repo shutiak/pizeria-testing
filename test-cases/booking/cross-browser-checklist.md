@@ -12,10 +12,10 @@ This checklist covers reservation form behavior across key device/browser combin
 
 | # | Device      | Browser | Scenario                                                                 | Status | Bug Report ID | Notes                           |
 |---|-------------|---------|--------------------------------------------------------------------------|--------|----------------|----------------------------------|
-| 1 | Laptop      | Chrome  | Fill valid data → Submit form → Check confirmation and email             |    |                |                    |
-| 2 | Laptop      | Edge    | Fill valid data → Submit form → Check confirmation and email             |   |         |     |
-| 3 | iPad 10.2   | Chrome  | Landscape view → Fill valid data → Submit form                           |    |                |     |
-| 4 | iPhone 14   | Edge    | Mobile view → Fill form → Submit → Check layout and response             |   |         |  |
+| 1 | Laptop      | Chrome  | Fill valid data → Submit form → Check confirmation and email             |❌    |<a href='https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug14.md#bug-014-reservation-form-does-not-confirm-submission-after-entering-valid-data-and-clicking-reserve'>BUG-014</a>                |                    |
+| 2 | Laptop      | Edge    | Fill valid data → Submit form → Check confirmation and email             |❌   |<a href='https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug14.md#bug-014-reservation-form-does-not-confirm-submission-after-entering-valid-data-and-clicking-reserve'>BUG-014</a>         |     |
+| 3 | iPad 10.2   | Chrome  | Landscape view → Fill valid data → Submit form                           |❌   <a href='https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug14.md#bug-014-reservation-form-does-not-confirm-submission-after-entering-valid-data-and-clicking-reserve'>BUG-014</a>|                |     |
+| 4 | iPhone 14   | Edge    | Mobile view → Fill form → Submit → Check layout and response             |❌  |<a href='https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug14.md#bug-014-reservation-form-does-not-confirm-submission-after-entering-valid-data-and-clicking-reserve'>BUG-014</a>         |  |
 
 ---
 
