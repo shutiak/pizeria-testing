@@ -6,7 +6,7 @@
 ---
 
 #### Pre-conditions:
-1. User is on the homepage: https://simply33food.com/  
+1. User is on the homepage: [https://simply33food.com/ ](https://simply33food.com/en ) 
 2. Reservation form is visible and active  
 
 ---
