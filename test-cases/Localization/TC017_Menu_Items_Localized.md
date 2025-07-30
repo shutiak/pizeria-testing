@@ -16,11 +16,11 @@
 
 | Step | Action | Expected Result | Result | Bug Report ID |
 |------|--------|------------------|--------|----------------|
-| 1 | Scroll to the menu section while in English version (`/en/`) | All menu item titles and descriptions are in English | ⬜ |                |
-| 2 | Note the name and description of 2–3 sample dishes | Text is clear and grammatically correct | ⬜ |                |
-| 3 | Use the language switcher to change to Czech | Page reloads or redirects to `/cz/` | ⬜ |                |
-| 4 | Scroll to the same menu items in Czech version | Titles and descriptions are shown in Czech | ⬜ |                |
-| 5 | Verify that no English text appears on Czech version (and vice versa) | All visible content matches selected language | ⬜ |                |
+| 1 | Scroll to the menu section while in English version (`/en/`) | All menu item titles and descriptions are in English | ✅ |                |
+| 2 | Note the name and description of 2–3 sample dishes | Text is clear and grammatically correct | ✅ |                |
+| 3 | Use the language switcher to change to Czech | Page reloads or redirects to `/cz/` | ✅ |                |
+| 4 | Scroll to the same menu items in Czech version | Titles and descriptions are shown in Czech | ✅ |                |
+| 5 | Verify that no English text appears on Czech version | All visible content matches selected language | ✅ |                |
 
 ---
 
