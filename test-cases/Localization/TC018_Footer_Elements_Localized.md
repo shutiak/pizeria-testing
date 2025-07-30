@@ -16,11 +16,11 @@
 
 | Step | Action | Expected Result | Result | Bug Report ID |
 |------|--------|------------------|--------|----------------|
-| 1 | Scroll to the footer in the English version (`/en/`) | All text in the footer (e.g. labels, section names) is in English | ⬜ |                |
-| 2 | Observe contact info, legal links, and any service descriptions | No text appears in Czech or mixed language | ⬜ |                |
-| 3 | Switch language to Czech using the language switcher | Page reloads or redirects to `/cz/` | ⬜ |                |
-| 4 | Scroll to the footer again and observe all textual content | Footer content is now displayed in Czech | ⬜ |                |
-| 5 | Confirm that no English words remain (unless proper nouns) | Footer is fully localized to Czech | ⬜ |                |
+| 1 | Scroll to the footer in the English version (`/en/`) | All text in the footer (e.g. labels, section names) is in English | ✅ |                |
+| 2 | Observe contact info, legal links, and any service descriptions | No text appears in Czech or mixed language | ❌ |<a href='https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug10.md#bug-010-terms-and-conditions-link-on-english-version-leads-to-czech-content'>BUG-010</a>, <a href='https://github.com/shutiak/simply33-qa-portfolio/blob/main/bug-reports/bugs/bug11.md#bug-011-cookies-page-on-english-version-contains-czech-content'>BUG-011</a>                |
+| 3 | Switch language to Czech using the language switcher | Page reloads or redirects to `/cz/` | ✅ |                |
+| 4 | Scroll to the footer again and observe all textual content | Footer content is now displayed in Czech | ✅ |                |
+| 5 | Confirm that no English words remain (unless proper nouns) | Footer is fully localized to Czech | ✅ |                |
 
 ---
 
