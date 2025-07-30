@@ -6,7 +6,7 @@
 ---
 
 #### Pre-conditions:
-1. User is on the homepage: https://simply33food.com/  
+1. User is on the homepage: https://simply33food.com/en   
 2. Reservation form is visible and active  
 3. The selected branch has defined business hours (e.g., 10:00–22:00)  
 
