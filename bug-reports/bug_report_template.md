@@ -1,30 +1,29 @@
-# BUG-001: "Alcohol Sets" navigation link redirects to Czech version instead of English
+# BUG-001: Vyhledávání partnerů podle názvu nefiltruje výsledky na stránce „Přehled partnerů“
 
-**Environment:**
-- Device: Windows 11
-- Browser: Chrome 138.0
-- URL: https://simply33food.com/en/
-- Language: EN
+**Prostředí:**
+- Zařízení: Windows 11  
+- Prohlížeč: Chrome 138.0  
+- URL: https://ut.a12.abuco.cz/operator/prehled-partneru  
 
-**Preconditions:**
-- User is on the homepage in English version (`/en/`)
+**Předpodmínky:**
+- Uživatel otevřel stránku „Přehled partnerů“ (`https://ut.a12.abuco.cz/operator/prehled-partneru`).  
 
-**Steps to Reproduce:**
-1. Hover over the top navigation menu and click on the "Menu" link.
-2. Scroll to the "Alcohol Sets" section or click the direct link to it from the menu.
-3. Observe the URL behavior.
+**Kroky k reprodukci:**
+1. Vybrat v seznamu existujícího partnera, např. *Springfield High School*.  
+2. Zkopírovat název *Springfield High School*.  
+3. Vložit tento název do pole **Partner/Organizace**.  
+4. Zrušit zaškrtnutí u filtrů **Ověřený SMS**, **Schválený operátorem**, **Aktivní**.  
+5. Kliknout na tlačítko **Hledat**.  
 
-**Actual Result:**
-- The link redirects to the Czech page: `https://simply33food.com/cz/menu/#alcohol-sets`.
+**Skutečný výsledek:**
+- Zobrazí se **všichni partneři**, místo aby byl seznam omezen pouze na ty s názvem *Springfield High School*.  
 
-**Expected Result:**
-- The link should redirect to the English page: `https://simply33food.com/en/menu/#alcohol-sets`.
+**Očekávaný výsledek:**
+- Zobrazí se pouze partneři, jejichž název obsahuje *Springfield High School*.  
 
-**Severity:** Minor  
-**Priority:** Low
+**Závažnost:** High  
+**Priorita:** High  
 
-**Attachments:** <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/0496f86e-d9ae-4f4e-bcfa-00bccbf3e2a8" />
-<img width="955" height="535" alt="image" src="https://github.com/user-attachments/assets/ed0b7024-8f5c-4eb6-acd3-e43b9d66e498" />
-
-
+**Přílohy:**  
+<img width="950" height="492" alt="image" src="https://github.com/user-attachments/assets/686900e5-d91f-4173-9afa-5053201195b1" />
 
